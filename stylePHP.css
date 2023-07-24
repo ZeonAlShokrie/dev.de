@@ -1,0 +1,14 @@
+
+* {
+    margin: 20px;
+    padding: 0;
+}
+
+html{
+    font-family: "Josefin Sans", sans-serif;
+    color: #ffffff;
+    background-color: #22282a;
+    letter-spacing: 0.12rem;
+    font-size: 16px;
+    /*font-weight: bold;*/
+}
